@@ -1,6 +1,6 @@
 # The Legend of Zelda: The Wind Waker - Speedrun History
 
-This document covers the history of The Wind Waker Any% speedruns up until the discovery of Barrier Skip.
+This document covers the history of The Wind Waker speedruns.
 
 ## Runs
 
